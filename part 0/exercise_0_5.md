@@ -7,5 +7,6 @@ sequenceDiagram
   activate server
 Note right of browser: Only fetches one HTML
   server-->>browser: HTML with js
+  deactivate server
 
 ````
