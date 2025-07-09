@@ -28,7 +28,7 @@ Note right of browser: The post-command is sent when the user clicks the save bu
   activate server
   server-->>browser: [{ "content": "HTML is easy", "date": "2023-1-1" }, ... ]
   deactivate server
-  
-  
+  ````
+
 
 
