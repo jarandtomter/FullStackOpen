@@ -1,0 +1,1 @@
+This directory contain exercises for week 0. The code provided in the seperate markdown-files, are heavily inspired by the "part 0" of the fullstackopen-course.

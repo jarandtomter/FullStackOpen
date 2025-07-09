@@ -8,3 +8,4 @@ sequenceDiagram
 Note right of browser: Only one request, and no redirect
   server-->>browser: 201 Created
   deactivate server
+````
