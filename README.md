@@ -1,0 +1,2 @@
+- This repository contains all my exercises in relation to the "Full Stack open" course: https://fullstackopen.com/en/.
+- The different directories contain the exercises for the given part.
