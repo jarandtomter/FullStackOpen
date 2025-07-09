@@ -4,9 +4,7 @@ sequenceDiagram
   participant server
 
   browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/new_note
-  adding new note
   server-->>browser: 302 redirect
-  requests reload of page
 
   browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/notes
   activate server
